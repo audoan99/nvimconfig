@@ -12,7 +12,7 @@ set foldnestmax=1
 set foldlevelstart=0        "  
 set number                  " Show line number
 set ignorecase              " Enable case-sensitive 
-
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
 " Disable backup
 set nobackup
 set nowb
